@@ -1,0 +1,28 @@
+Doctor Name,Doctor ID,Patient Name,Patient ID,Admitted Date,Discharge Date,Treatment,Bill Payment,Patient Gender,Hospital Name,Hospital ID
+Sai,R152,Swathi,A118,01-Jan-21,03-Jan-21,Cancer,1500,Female,Apollo ,4346
+Rajesh,A789,Surya,O346,02-Jan-21,04-Jan-21,Tyroid,2500,Male,Global,5547
+Priya,G158,Edward,N542,03-Jan-21,05-Jan-21,Diabetes,4586,Male,Ozone,9752
+Ravi,F212,Justin,O465,04-Jan-21,06-Jan-21,Covid,2647,Male,Omni,2151
+Mahesh,J545,Neetu,L654,05-Jan-21,07-Jan-21,BP,2560,Female,Yashoda,9654
+Steve,S566,Jack,D544,06-Jan-21,08-Jan-21,General Checkup,7851,Male,KIMS,5465
+Johnson,R454,Tylor,A256,07-Jan-21,09-Jan-21,BP,2658,Female,NIMS,7986
+Albert,E465,Teresa,K545,08-Jan-21,10-Jan-21,Covid,6531,Female,Osmania,8723
+Joseph,H250,Mathews,P356,09-Jan-21,11-Jan-21,BP,7634,Male,AIG,4562
+Swathi,Y156,Linca,N162,10-Jan-21,12-Jan-21,Tyroid,1679,Female,Rainbow,8974
+Khan,D354,Anthony,H216,11-Jan-21,13-Jan-21,Diabetes,1468,Male,Medical City,4696
+Fatima,T362,Reha,J470,12-Jan-21,14-Jan-21,General Checkup,6095,Female,Sai Krishna,7987
+Rakesh,K216,Bhavani,U652,13-Jan-21,15-Jan-21,Tyroid,4658,Female,Naveena,1256
+Sweety,O465,Naresh,E465,14-Jan-21,16-Jan-21,Covid,2356,Male,Sai Aditya,4753
+Tinku,W265,Virat,B235,15-Jan-21,17-Jan-21,General Checkup,1647,Male,Sapthagiri,8546
+Preeti,H450,Deepika,J612,16-Jan-21,18-Jan-21,Cancer,2365,Female,Supraja,6534
+Anne,H542,Andrews,E412,17-Jan-21,19-Jan-21,Tyroid,1423,Male,Geetha,8974
+Robert,M345,Nihal,P154,18-Jan-21,20-Jan-21,Diabetes,7892,Male,Care,7853
+Edward,V215,Gayatri,Q465,19-Jan-21,21-Jan-21,Covid,4321,Female,Homeopathy,7984
+Tita,S273,Rani,Y546,20-Jan-21,22-Jan-21,General Checkup,2301,Female,Texas Health Presbetarian,8974
+Maria,U450,Madhu,J324,21-Jan-21,23-Jan-21,Cancer,1336,Male,Coppell,8778
+Orlando,K251,Umesh,W546,22-Jan-21,24-Jan-21,Tyroid,6501,Male,Denton  Surgical,7452
+Uzma,J215,Kajol,I442,23-Jan-21,25-Jan-21,Diabetes,7135,Female,Atrium,6766
+Ganesh,K351,Pratham,L561,24-Jan-21,26-Jan-21,General Checkup,1385,Male,Mayhil,6876
+Daniel,P265,Sam,R495,25-Jan-21,27-Jan-21,Tyroid,2564,Male,Baylor Scott,6577
+Neha,Q655,Dharvin,G456,26-Jan-21,28-Jan-21,Covid,1289,Male,Carrollton Methodist,7856
+Azeem,I132,Vineet,T541,27-Jan-21,29-Jan-21,General Checkup,1479,Male,Sagecrest,1514
